@@ -1,0 +1,23 @@
+
+
+.cells {
+    width: 50px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-collapse: collapse;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+#input, #output {
+    text-align: center
+}
+.yellow {
+    background: yellow;
+}
+
+.blue {
+    background: #43B0F0;
+}
